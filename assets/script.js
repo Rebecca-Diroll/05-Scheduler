@@ -1,7 +1,7 @@
 // Heading
 
 var currentDay = moment();
-$("#currentDay").text(currentDay.format("MMM Do, YYYY"));
+$("#currentDay").text(currentDay.format("dddd, MMMM Do, YYYY"));
 
 // Input & Save content
 
