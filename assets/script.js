@@ -3,6 +3,7 @@
 var currentDay = moment();
 $("#currentDay").text(currentDay.format("MMM Do, YYYY"));
 
+/*
 
 // Input & Save content
 
@@ -58,3 +59,5 @@ $("#content-15").val(localStorage.getItem("15"));
 $("#content-16").val(localStorage.getItem("16"));
 
 $("#content-17").val(localStorage.getItem("17"));
+
+*/
