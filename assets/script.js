@@ -34,7 +34,7 @@ let hourlyTime = function() {
 
 hourlyTime();
 
-/*
+
 // Retrieve schedule items for each time block
 
 $("#content-08").val(localStorage.getItem("08"));
@@ -56,5 +56,3 @@ $("#content-15").val(localStorage.getItem("15"));
 $("#content-16").val(localStorage.getItem("16"));
 
 $("#content-17").val(localStorage.getItem("17"));
-
-*/
