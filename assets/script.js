@@ -3,16 +3,14 @@
 var currentDay = moment();
 $("#currentDay").text(currentDay.format("MMM Do, YYYY"));
 
-/*
-
 // Input & Save content
-
+/*
 $(".saveBtn").on("click", function() {
     let todo = $(this).siblings(".description").val();
     let rowTime = $(this).parent().attr("id");
     localStorage.setItem(rowTime, todo);
 });
-
+*/
 // Set as Past, Present, or Future.
 
 let hourlyTime = function() {
@@ -32,12 +30,11 @@ let hourlyTime = function() {
     });
 }
 
-
 // Run hourlyTime function
 
 hourlyTime();
 
-
+/*
 // Retrieve schedule items for each time block
 
 $("#content-08").val(localStorage.getItem("08"));
