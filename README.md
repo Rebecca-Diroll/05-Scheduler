@@ -8,6 +8,6 @@ Even when the website is refreshed, the data will persist until it is changed an
 
 The application can be found at the following website:  https://rebecca-diroll.github.io/05-Scheduler/
 
-![The Work Day Scheduler and morning time slots.](assets/scheduler-1.jpg)
+![The Work Day Scheduler and morning time slots.](assets/Scheduler-1.jpg)
 
-![The afternoon time slots that show it is after 2 pm, but before 3pm.](assets/scheduler-2.jpg)
+![The afternoon time slots that show it is after 2 pm, but before 3pm.](assets/Scheduler-2.jpg)
